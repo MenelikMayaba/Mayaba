@@ -1,5 +1,5 @@
 # 💫 About Me:
-love football<br>i code, creating but also continuously practicing<br>i like chess<br>live in South Africa
+love football<br>I code, creating but also continuously practicing trying to become a better developer<br>I like chess<br>I live in South Africa
 
 
 # 💻 Tech Stack:
